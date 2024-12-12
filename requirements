@@ -4,6 +4,5 @@ numpy
 edhec_risk_kit_123 
 io
 plotly
-
-matplotlib ==  3.9.3
+matplotlib
 
