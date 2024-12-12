@@ -145,7 +145,7 @@ def sharpe_ratio(r, riskfree_rate, periods_per_year):
     return ann_ex_ret/ann_vol
 
 
-import scipy.stats
+#import scipy.stats
 def is_normal(r, level=0.01):
     """
     Applies the Jarque-Bera test to determine if a Series is normal or not
