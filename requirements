@@ -5,4 +5,5 @@ edhec_risk_kit_123
 io
 plotly
 matplotlib
+pip install matplotlib
 
