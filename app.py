@@ -4,7 +4,7 @@ import numpy as np
 #import matplotlib.pyplot as plt
 import edhec_risk_kit_123 as erk
 import io
-import plotly.express as px
+from plotly import express as px
 
 st.set_page_config(page_title="CPPI Monte Carlo Simulation", layout="wide")
 
