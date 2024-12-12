@@ -4,6 +4,7 @@ numpy
 edhec_risk_kit_123 
 io
 plotly
+plotly-express
 matplotlib
 pip install scipy
 scipy
