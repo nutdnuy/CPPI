@@ -1,7 +1,9 @@
 streamlit
 pandas 
 numpy
-matplotlib ==  3.9.3
 edhec_risk_kit_123 
 io
 plotly
+
+matplotlib ==  3.9.3
+
