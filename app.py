@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+
+! pip install matplotlib
+
+
 import matplotlib.pyplot as plt
 import edhec_risk_kit_123 as erk
 import io
