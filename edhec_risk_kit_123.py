@@ -268,7 +268,7 @@ def plot_ef2(n_points, er, cov):
     return ef.plot.line(x="Volatility", y="Returns", style=".-")
 
 
-from scipy.optimize import minimize
+#from scipy.optimize import minimize
 
 def minimize_vol(target_return, er, cov):
     """
