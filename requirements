@@ -1,13 +1,7 @@
-streamlit
-pandas 
-numpy
-edhec_risk_kit_123 
-io
-plotly
-plotly-express
-matplotlib
-pip install scipy
-scipy
-pip install matplotlib
+streamlit>=1.0.0
+matplotlib>=3.4.3
+numpy>=1.21.0
+pandas>=1.3.0
+plotly>=5.3.0
 
 
